@@ -1,0 +1,1 @@
+let mapmycustomers = isprivate;
